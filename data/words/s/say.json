@@ -1,0 +1,21 @@
+{
+  "id": 399,
+  "term": "say",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nu.",
+      "meaning": "发言权",
+      "examples": [
+        "We had no **say** in the decision to sell the company."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "比如说",
+      "examples": [
+        "You could learn the basics in, let's **say**, three months."
+      ]
+    }
+  ]
+}

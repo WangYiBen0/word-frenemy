@@ -1,0 +1,29 @@
+{
+  "id": 374,
+  "term": "reason",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "推断；推理",
+      "examples": [
+        "She **reasoned** that she must have left her bag on the train.",
+        "I **reasoned** that changing my diet would lower my cholesterol level."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "讲道理",
+      "examples": [
+        "Try to **reason** with him—he's not reasonable when angry."
+      ]
+    },
+    {
+      "pos": "nu.",
+      "meaning": "思考力；理性",
+      "examples": [
+        "Only human beings are capable of **reason**."
+      ]
+    }
+  ]
+}

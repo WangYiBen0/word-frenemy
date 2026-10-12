@@ -1,0 +1,21 @@
+{
+  "id": 439,
+  "term": "story",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "楼层",
+      "examples": [
+        "Every home must have a working smoke alarm on every **story**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "新闻报道",
+      "examples": [
+        "Those are some of the top **stories** in the news."
+      ]
+    }
+  ]
+}

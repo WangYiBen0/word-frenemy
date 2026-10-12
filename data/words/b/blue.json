@@ -1,0 +1,14 @@
+{
+  "id": 42,
+  "term": "blue",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "adj.",
+      "meaning": "忧郁的；情绪低落的",
+      "examples": [
+        "She's been feeling a bit **blue** since her friend left."
+      ]
+    }
+  ]
+}

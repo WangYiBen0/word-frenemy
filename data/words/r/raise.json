@@ -1,0 +1,28 @@
+{
+  "id": 369,
+  "term": "raise",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "提出议题",
+      "examples": [
+        "The book **raises** many important questions."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "种植；饲养",
+      "examples": [
+        "He **raises** 2,000 acres of wheat and hay."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使自乘（任意倍数）",
+      "examples": [
+        "3 **raised** to the power of 3 is 27."
+      ]
+    }
+  ]
+}

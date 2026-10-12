@@ -1,0 +1,21 @@
+{
+  "id": 16,
+  "term": "article",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "物品",
+      "examples": [
+        "The **articles** found in the car helped the police to identify the body."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "条款",
+      "examples": [
+        "**Article** 10 of the European Convention guarantees free speech."
+      ]
+    }
+  ]
+}

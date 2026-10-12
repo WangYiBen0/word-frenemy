@@ -1,0 +1,22 @@
+{
+  "id": 224,
+  "term": "green",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "adj.",
+      "meaning": "不成熟的；缺乏经验的",
+      "examples": [
+        "The new trainees are still very **green**.",
+        "The new employee is still **green** and needs more training."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "无血色的；（脸色）发青的",
+      "examples": [
+        "It was a rough crossing and most of the passengers looked distinctly **green**."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 284,
+  "term": "means",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "n.",
+      "meaning": "财产；钱财；财富",
+      "examples": [
+        "He doesn't have the **means** to support a wife and child.",
+        "People should pay according to their **means**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "方式；方法；途径",
+      "examples": [
+        "Television is an effective **means** of communication."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 24,
+  "term": "balance",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "余额；欠款；账单",
+      "examples": [
+        "I'd like to check the **balance** in my account please.",
+        "He still owes a **balance** on his car loan.",
+        "We need to pay the **balance** by the end of the month.",
+        "n.[pl.] 制衡（checks and balances）",
+        "The system of **checks and balances** prevents abuse of power."
+      ]
+    }
+  ]
+}

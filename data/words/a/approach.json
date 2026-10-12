@@ -1,0 +1,21 @@
+{
+  "id": 12,
+  "term": "approach",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "方式；方法",
+      "examples": [
+        "The school has decided to adopt a different **approach** to discipline."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "着手处理；解决",
+      "examples": [
+        "We need to **approach** this problem from a different angle."
+      ]
+    }
+  ]
+}

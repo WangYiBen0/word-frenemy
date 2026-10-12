@@ -1,0 +1,21 @@
+{
+  "id": 411,
+  "term": "shadow",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "跟踪；盯梢",
+      "examples": [
+        "He was **shadowed** for a week by the secret police."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "微量",
+      "examples": [
+        "A **shadow** of a smile touched his mouth."
+      ]
+    }
+  ]
+}

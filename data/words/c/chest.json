@@ -1,0 +1,21 @@
+{
+  "id": 75,
+  "term": "chest",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "胸部",
+      "examples": [
+        "He has a tattoo on his **chest**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "箱子；宝箱",
+      "examples": [
+        "The pirates found a **chest** full of gold."
+      ]
+    }
+  ]
+}

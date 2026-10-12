@@ -1,0 +1,30 @@
+{
+  "id": 134,
+  "term": "develop",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "患（病）",
+      "examples": [
+        "Her son **developed** asthma when he was two.",
+        "He **developed** a cold last week."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "养成（习惯）",
+      "examples": [
+        "He **developed** a habit of reading before bed."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "冲洗（胶片、胶卷）",
+      "examples": [
+        "I had the film **developed** yesterday.",
+        "She **developed** the photos in her darkroom."
+      ]
+    }
+  ]
+}

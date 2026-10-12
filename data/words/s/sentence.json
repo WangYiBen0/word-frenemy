@@ -1,0 +1,21 @@
+{
+  "id": 408,
+  "term": "sentence",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "判决",
+      "examples": [
+        "The prisoner has served (= completed) his **sentence** and will be released tomorrow."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "判决；宣判",
+      "examples": [
+        "A military court **sentenced** him to death in his absence."
+      ]
+    }
+  ]
+}

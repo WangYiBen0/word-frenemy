@@ -1,0 +1,30 @@
+{
+  "id": 445,
+  "term": "subject",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "使臣服；使遭受",
+      "examples": [
+        "The Roman Empire **subjected** most of Europe to its rule.",
+        "Innocent civilians are being arrested and **subjected** to inhumane treatment."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "实验对象",
+      "examples": [
+        "We need male **subjects** between the ages of 18 and 25 for the experiment.",
+        "He's now the **subject** of an official inquiry."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "国民",
+      "examples": [
+        "Roughly half of them are British **subjects**."
+      ]
+    }
+  ]
+}

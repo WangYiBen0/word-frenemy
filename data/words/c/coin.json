@@ -1,0 +1,16 @@
+{
+  "id": 88,
+  "term": "coin",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "创造（新词）",
+      "examples": [
+        "The term 'cardboard city' was **coined** to describe communities of homeless people.",
+        "Jaron Lanier **coined** the term \"virtual reality\".",
+        "The term \"globalization\" was **coined** in the 1960s."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 241,
+  "term": "interest",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.[usually pl.]",
+      "meaning": "利益",
+      "examples": [
+        "He acts always out of his own **interests**."
+      ]
+    },
+    {
+      "pos": "nu.",
+      "meaning": "利息",
+      "examples": [
+        "He has to pay **interest** on the loan every month."
+      ]
+    }
+  ]
+}

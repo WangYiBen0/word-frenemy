@@ -1,0 +1,29 @@
+{
+  "id": 225,
+  "term": "ground",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "adj.",
+      "meaning": "磨碎的（grind - ground - ground）",
+      "examples": [
+        "Add a pinch of **ground** black pepper to enhance the flavor."
+      ]
+    },
+    {
+      "pos": "n.[pl.]",
+      "meaning": "渣滓；沉淀物",
+      "examples": [
+        "Don't pour the **grounds** down the sink."
+      ]
+    },
+    {
+      "pos": "n.[usually pl.]",
+      "meaning": "理由；依据",
+      "examples": [
+        "The case was dismissed on the **grounds** that there was not enough evidence.",
+        "You have no **grounds** for complaint."
+      ]
+    }
+  ]
+}

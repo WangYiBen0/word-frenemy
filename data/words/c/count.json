@@ -1,0 +1,14 @@
+{
+  "id": 114,
+  "term": "count",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "包括",
+      "examples": [
+        "We have invited 50 people, not **counting** the children."
+      ]
+    }
+  ]
+}

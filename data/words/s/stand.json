@@ -1,0 +1,21 @@
+{
+  "id": 433,
+  "term": "stand",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "立场",
+      "examples": [
+        "He felt the need to make a **stand** against racism in South Africa."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "小摊",
+      "examples": [
+        "She bought a beautiful handmade bracelet from a craft **stand** at the local market."
+      ]
+    }
+  ]
+}

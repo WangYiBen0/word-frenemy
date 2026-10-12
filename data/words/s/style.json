@@ -1,0 +1,21 @@
+{
+  "id": 444,
+  "term": "style",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "把……设计成某种式样",
+      "examples": [
+        "He'd had his hair **styled** at an expensive salon."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "命名",
+      "examples": [
+        "He **styled** himself Major Carter."
+      ]
+    }
+  ]
+}

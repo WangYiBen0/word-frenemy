@@ -1,0 +1,15 @@
+{
+  "id": 40,
+  "term": "blind",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "百叶窗；窗帘",
+      "examples": [
+        "She pulled down the **blind** to block the sun.",
+        "The room has wooden **blinds** on the windows."
+      ]
+    }
+  ]
+}

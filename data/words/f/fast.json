@@ -1,0 +1,22 @@
+{
+  "id": 179,
+  "term": "fast",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vi.",
+      "meaning": "斋戒；禁食",
+      "examples": [
+        "Many people **fast** today.",
+        "If you want to lose weight quickly, you might consider **fasting** under medical supervision."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "禁食期",
+      "examples": [
+        "Many cultures practice periodic **fasts**."
+      ]
+    }
+  ]
+}

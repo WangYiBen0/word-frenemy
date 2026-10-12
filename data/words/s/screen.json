@@ -1,0 +1,37 @@
+{
+  "id": 403,
+  "term": "screen",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "遮盖；遮挡；屏蔽",
+      "examples": [
+        "Dark glasses **screened** his eyes from the sun.",
+        "Most of the road behind the hotel was **screened** by an apartment block."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "审查",
+      "examples": [
+        "Government employees may be **screened** by the security services."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "筛选",
+      "examples": [
+        "I use my answerphone to **screen** my phone calls.",
+        "They will **screen** all their candidates."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "上映；播放",
+      "examples": [
+        "The series is likely to be **screened** in January."
+      ]
+    }
+  ]
+}

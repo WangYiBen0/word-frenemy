@@ -1,0 +1,29 @@
+{
+  "id": 131,
+  "term": "deliver",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "接生；分娩",
+      "examples": [
+        "The baby was **delivered** by Caesarean section.",
+        "She **delivered** a healthy baby girl."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "发表（讲话）；说（台词）",
+      "examples": [
+        "He **delivered** his lines confidently."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "兑现",
+      "examples": [
+        "The company failed to **deliver** on its promises."
+      ]
+    }
+  ]
+}

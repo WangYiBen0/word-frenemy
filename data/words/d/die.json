@@ -1,0 +1,29 @@
+{
+  "id": 136,
+  "term": "die",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vi.",
+      "meaning": "渴望（be dying to/for）",
+      "examples": [
+        "I'm **dying** to know what happened."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "骰子",
+      "examples": [
+        "He rolled a six on the **die**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "模具",
+      "examples": [
+        "The parts are made using a metal **die**.",
+        "The company produces plastic toys using injection **dies**."
+      ]
+    }
+  ]
+}

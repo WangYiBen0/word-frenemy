@@ -1,0 +1,21 @@
+{
+  "id": 379,
+  "term": "release",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "解雇",
+      "examples": [
+        "The club is **releasing** some of its older players."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "公开；公布；发布",
+      "examples": [
+        "Police have **released** no further details about the accident."
+      ]
+    }
+  ]
+}

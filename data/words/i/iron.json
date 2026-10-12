@@ -1,0 +1,21 @@
+{
+  "id": 245,
+  "term": "iron",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "熨烫",
+      "examples": [
+        "She **ironed** her business suit before the important meeting."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "顽强的",
+      "examples": [
+        "He showed an **iron** will to overcome the difficulties."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 489,
+  "term": "well",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "水井",
+      "examples": [
+        "Nestled in the heart of the village, the ancient **well** has been a lifeline for generations.",
+        "I had to fetch water from the **well**."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "涌起",
+      "examples": [
+        "Tears **welled** in her eyes."
+      ]
+    }
+  ]
+}

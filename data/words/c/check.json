@@ -1,0 +1,28 @@
+{
+  "id": 74,
+  "term": "check",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "n.",
+      "meaning": "控制；遏制（in check）",
+      "examples": [
+        "We need to keep our expenses **in check** to avoid overspending."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "限制",
+      "examples": [
+        "We need to **check** the spread of the disease."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "支票",
+      "examples": [
+        "He wrote a **check** for $500."
+      ]
+    }
+  ]
+}

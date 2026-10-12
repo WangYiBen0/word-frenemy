@@ -1,0 +1,22 @@
+{
+  "id": 178,
+  "term": "fashion",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "制作；手工制作",
+      "examples": [
+        "She **fashioned** the clay into a pot.",
+        "She **fashioned** a pot from the clay."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "制定；想出",
+      "examples": [
+        "We must **fashion** a solution to this problem."
+      ]
+    }
+  ]
+}

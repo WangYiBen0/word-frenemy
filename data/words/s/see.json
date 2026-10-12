@@ -1,0 +1,21 @@
+{
+  "id": 407,
+  "term": "see",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "设想；想象",
+      "examples": [
+        "A good idea, but can you **see** Taylor trying it?"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "明白",
+      "examples": [
+        "Oh, I **see** what you're saying."
+      ]
+    }
+  ]
+}

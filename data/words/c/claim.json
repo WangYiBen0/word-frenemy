@@ -1,0 +1,22 @@
+{
+  "id": 80,
+  "term": "claim",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "索取；索赔",
+      "examples": [
+        "He **claimed** insurance for the stolen laptop.",
+        "She **claimed** compensation for the damage to her car."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "夺去（生命）",
+      "examples": [
+        "The disease has **claimed** thousands of lives."
+      ]
+    }
+  ]
+}

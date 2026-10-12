@@ -1,0 +1,15 @@
+{
+  "id": 96,
+  "term": "compromise",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "损害；使陷入危险；危及",
+      "examples": [
+        "She had already **compromised** herself by accepting his invitation.",
+        "His actions **compromised** the safety of the team."
+      ]
+    }
+  ]
+}

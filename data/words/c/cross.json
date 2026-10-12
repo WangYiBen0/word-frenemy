@@ -1,0 +1,21 @@
+{
+  "id": 120,
+  "term": "cross",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "反驳；惹恼",
+      "examples": [
+        "She's really nice until you **cross** her."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "愤怒的；恼怒的",
+      "examples": [
+        "I was **cross** with him for being late."
+      ]
+    }
+  ]
+}

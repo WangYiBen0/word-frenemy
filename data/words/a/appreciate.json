@@ -1,0 +1,29 @@
+{
+  "id": 14,
+  "term": "appreciate",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "理解；意识到",
+      "examples": [
+        "We didn't fully **appreciate** that he was seriously ill.",
+        "She didn't **appreciate** the danger of the situation."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "感激",
+      "examples": [
+        "Thanks, lads. I **appreciate** it."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "增值",
+      "examples": [
+        "They don't have any confidence that houses will **appreciate** in value."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 87,
+  "term": "coat",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "动物皮毛",
+      "examples": [
+        "The cat has a thick **coat** to keep warm."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "在表面覆盖一层",
+      "examples": [
+        "A film of dust **coated** the table."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 33,
+  "term": "bearing",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "航向；方向",
+      "examples": [
+        "The ship took a northerly **bearing**.",
+        "We checked our **bearing** using a compass."
+      ]
+    },
+    {
+      "pos": "nu.",
+      "meaning": "影响",
+      "examples": [
+        "His parents had a great **bearing** on his career choice."
+      ]
+    }
+  ]
+}

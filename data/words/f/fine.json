@@ -1,0 +1,28 @@
+{
+  "id": 192,
+  "term": "fine",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "处以罚金",
+      "examples": [
+        "She was **fined** for speeding."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "罚款",
+      "examples": [
+        "Did she have to pay a **fine**?"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "细小的；微小的",
+      "examples": [
+        "He has **fine** lines around his eyes."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 100,
+  "term": "confidence",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nu.",
+      "meaning": "秘密；机密",
+      "examples": [
+        "She told me the news **in confidence**."
+      ]
+    }
+  ]
+}

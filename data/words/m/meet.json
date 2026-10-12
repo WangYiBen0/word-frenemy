@@ -1,0 +1,29 @@
+{
+  "id": 286,
+  "term": "meet",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "运动会；体育比赛",
+      "examples": [
+        "John Pennel became the first person to pole-vault 17 ft., at a **meet** in Miami, Florida.",
+        "The school holds an annual sports **meet** in spring."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "比赛；交锋",
+      "examples": [
+        "The two teams will **meet** in the final next week."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "满足；符合",
+      "examples": [
+        "The product **meets** all safety standards."
+      ]
+    }
+  ]
+}

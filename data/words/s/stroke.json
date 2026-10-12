@@ -1,0 +1,21 @@
+{
+  "id": 441,
+  "term": "stroke",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "轻抚",
+      "examples": [
+        "She walked forward and **stroked** his tousled white hair."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "中风",
+      "examples": [
+        "He had a minor **stroke** in 1987."
+      ]
+    }
+  ]
+}

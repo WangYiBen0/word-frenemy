@@ -1,0 +1,22 @@
+{
+  "id": 357,
+  "term": "produce",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nu.",
+      "meaning": "农产品",
+      "examples": [
+        "The shop sells only fresh local **produce**.",
+        "Winter **produce** will cost more for the next few weeks."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "拿出；出示",
+      "examples": [
+        "He **produced** a letter from his pocket."
+      ]
+    }
+  ]
+}

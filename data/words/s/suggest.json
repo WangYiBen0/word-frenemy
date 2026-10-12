@@ -1,0 +1,15 @@
+{
+  "id": 447,
+  "term": "suggest",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "表明；暗示",
+      "examples": [
+        "All the evidence **suggests** (that) he stole the money.",
+        "Its hairy body **suggests** a mammal."
+      ]
+    }
+  ]
+}

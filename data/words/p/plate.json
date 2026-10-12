@@ -1,0 +1,28 @@
+{
+  "id": 345,
+  "term": "plate",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "镀（金）",
+      "examples": [
+        "The craftsman **plated** the silver bowl with gold."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "板块",
+      "examples": [
+        "The earth's crust is divided into several tectonic **plates**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "车牌",
+      "examples": [
+        "The car's license **plate** was damaged in the accident."
+      ]
+    }
+  ]
+}

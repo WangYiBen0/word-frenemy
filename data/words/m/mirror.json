@@ -1,0 +1,21 @@
+{
+  "id": 294,
+  "term": "mirror",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "反映",
+      "examples": [
+        "The music of the time **mirrored** the feeling of optimism in the country."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "镜子",
+      "examples": [
+        "She looked at herself in the bathroom **mirror**."
+      ]
+    }
+  ]
+}

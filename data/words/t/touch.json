@@ -1,0 +1,28 @@
+{
+  "id": 466,
+  "term": "touch",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "一点；少许（高考考过）",
+      "examples": [
+        "There was a **touch** of sarcasm in her voice."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "点睛之笔",
+      "examples": [
+        "They called the event \"a tribute to heroes,\" which was a nice **touch**."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "触动",
+      "examples": [
+        "A shadow of a smile **touched** his mouth."
+      ]
+    }
+  ]
+}

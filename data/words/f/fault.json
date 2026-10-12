@@ -1,0 +1,14 @@
+{
+  "id": 181,
+  "term": "fault",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "断层",
+      "examples": [
+        "The earthquake occurred along a **fault**."
+      ]
+    }
+  ]
+}

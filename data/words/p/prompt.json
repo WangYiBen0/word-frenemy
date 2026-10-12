@@ -1,0 +1,14 @@
+{
+  "id": 361,
+  "term": "prompt",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "提示词",
+      "examples": [
+        "The computer will give you a **prompt** to enter data."
+      ]
+    }
+  ]
+}

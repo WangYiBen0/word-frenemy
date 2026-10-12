@@ -1,0 +1,21 @@
+{
+  "id": 6,
+  "term": "act",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vi.",
+      "meaning": "出于……而行动",
+      "examples": [
+        "He acts always out of his own **interests**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "法案；法令",
+      "examples": [
+        "The new environmental regulations were introduced through an **Act** of Parliament."
+      ]
+    }
+  ]
+}

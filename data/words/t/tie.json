@@ -1,0 +1,28 @@
+{
+  "id": 461,
+  "term": "tie",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "关系",
+      "examples": [
+        "The firm has close **ties** with an American corporation."
+      ]
+    },
+    {
+      "pos": "n.[pl.]",
+      "meaning": "束缚",
+      "examples": [
+        "He was still a young man and he did not want any **ties**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "平局；平分",
+      "examples": [
+        "The first game ended in a **tie**."
+      ]
+    }
+  ]
+}

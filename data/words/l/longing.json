@@ -1,0 +1,21 @@
+{
+  "id": 274,
+  "term": "longing",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "adj.",
+      "meaning": "渴望的",
+      "examples": [
+        "His **longing** gaze suggested he missed his family."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "渴望",
+      "examples": [
+        "She felt a deep **longing** for her hometown."
+      ]
+    }
+  ]
+}

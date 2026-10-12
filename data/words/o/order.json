@@ -1,0 +1,21 @@
+{
+  "id": 316,
+  "term": "order",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "勋章",
+      "examples": [
+        "He was awarded a military **order** for his bravery in battle."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "下（订单）；提出（需求）",
+      "examples": [
+        "Customers can place **orders** for custom-made products online."
+      ]
+    }
+  ]
+}

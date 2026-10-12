@@ -1,0 +1,21 @@
+{
+  "id": 258,
+  "term": "lead",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "狗绳",
+      "examples": [
+        "Dogs must be kept on a **lead** in the park."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "信息；线索",
+      "examples": [
+        "The detective followed a new **lead** in the murder investigation."
+      ]
+    }
+  ]
+}

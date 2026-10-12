@@ -1,0 +1,43 @@
+{
+  "id": 117,
+  "term": "cover",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "报道",
+      "examples": [
+        "The BBC will **cover** all the major games of the tournament.",
+        "The news channel **covered** the event live."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "足以支付",
+      "examples": [
+        "The show barely **covered** its costs."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "包括；涉及；处理",
+      "examples": [
+        "The lectures **covered** a lot of ground."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "行走（一段路程）",
+      "examples": [
+        "By sunset we had **covered** thirty miles."
+      ]
+    },
+    {
+      "pos": "nu.",
+      "meaning": "遮蔽；庇护",
+      "examples": [
+        "The trees provided **cover** from the rain."
+      ]
+    }
+  ]
+}

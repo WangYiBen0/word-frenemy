@@ -1,0 +1,29 @@
+{
+  "id": 491,
+  "term": "will",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "立遗嘱把……赠与",
+      "examples": [
+        "Joe had **willed** them everything he possessed."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "遗嘱",
+      "examples": [
+        "My father left me the house in his **will**.",
+        "Attached to his **will** was a letter he had written to his wife."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "意愿",
+      "examples": [
+        "No doubt he was forced to leave his family against his **will**."
+      ]
+    }
+  ]
+}

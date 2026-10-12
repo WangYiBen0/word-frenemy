@@ -1,0 +1,21 @@
+{
+  "id": 460,
+  "term": "theatre",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "手术室",
+      "examples": [
+        "She is back from **theatre** and her condition is comfortable."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "战区；战场",
+      "examples": [
+        "The Middle East has often been a **theatre** of war."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 352,
+  "term": "pool",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "汇集资源；集中",
+      "examples": [
+        "The students work individually, then **pool** their ideas in groups of six.",
+        "We **pooled** ideas and information."
+      ]
+    },
+    {
+      "pos": "nu.",
+      "meaning": "落袋台球",
+      "examples": [
+        "He was shooting **pool** with two other men."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "备用物品；后备人员",
+      "examples": [
+        "The new proposal would create a reserve **pool** of cash."
+      ]
+    }
+  ]
+}

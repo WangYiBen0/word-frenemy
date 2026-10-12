@@ -1,0 +1,21 @@
+{
+  "id": 196,
+  "term": "fix",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "确定",
+      "examples": [
+        "Has the date of the next meeting been **fixed**?"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "做饭",
+      "examples": [
+        "She **fixed** a salad while I grilled fish."
+      ]
+    }
+  ]
+}

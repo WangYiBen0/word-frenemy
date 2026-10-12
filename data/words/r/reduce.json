@@ -1,0 +1,22 @@
+{
+  "id": 375,
+  "term": "reduce",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "迫使；使陷入",
+      "examples": [
+        "He was **reduced** to begging for a living.",
+        "They were **reduced** to extreme poverty."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使变稠；收汁",
+      "examples": [
+        "Boil the liquid in a small saucepan to **reduce** it by half."
+      ]
+    }
+  ]
+}

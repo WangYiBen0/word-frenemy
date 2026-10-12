@@ -1,0 +1,21 @@
+{
+  "id": 478,
+  "term": "upset",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "打翻；弄乱",
+      "examples": [
+        "Don't **upset** the piles of sheets under the box."
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "（肠胃的）不适",
+      "examples": [
+        "Paul was unwell last night with a stomach **upset**."
+      ]
+    }
+  ]
+}

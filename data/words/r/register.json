@@ -1,0 +1,36 @@
+{
+  "id": 377,
+  "term": "register",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "语体风格；语域",
+      "examples": [
+        "'Register' is the term commonly used to describe different levels of formality in language.",
+        "The essay suddenly switches from a formal to an informal **register**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "收银台",
+      "examples": [
+        "He checked the **register**. There was money in the till."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "（仪表上）显示",
+      "examples": [
+        "The earthquake **registered** 5.7 on the Richter scale."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "表示（感情或看法）",
+      "examples": [
+        "Voters wish to **register** their dissatisfaction with the ruling party."
+      ]
+    }
+  ]
+}

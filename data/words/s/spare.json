@@ -1,0 +1,28 @@
+{
+  "id": 425,
+  "term": "spare",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "免去",
+      "examples": [
+        "He wanted to **spare** his mother any anxiety."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "饶恕",
+      "examples": [
+        "They killed the men but **spared** the children."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "不吝惜",
+      "examples": [
+        "He **spared** no effort to make her happy again."
+      ]
+    }
+  ]
+}

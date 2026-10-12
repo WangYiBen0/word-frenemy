@@ -1,0 +1,21 @@
+{
+  "id": 220,
+  "term": "grade",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.坡度",
+      "meaning": "",
+      "examples": [
+        "The road has a steep **grade**."
+      ]
+    },
+    {
+      "pos": "nc.年级",
+      "meaning": "",
+      "examples": [
+        "She's in the fifth **grade**."
+      ]
+    }
+  ]
+}

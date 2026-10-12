@@ -1,0 +1,21 @@
+{
+  "id": 177,
+  "term": "fare",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "饭菜",
+      "examples": [
+        "The restaurant provides good traditional **fare**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "乘客",
+      "examples": [
+        "The taxi driver picked up a **fare** at the station."
+      ]
+    }
+  ]
+}

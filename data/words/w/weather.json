@@ -1,0 +1,22 @@
+{
+  "id": 488,
+  "term": "weather",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "平安地渡过；经受住",
+      "examples": [
+        "The company just managed to **weather** the recession.",
+        "She refuses to resign, intending to **weather** the storm."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "褪色；风化",
+      "examples": [
+        "This brick **weathers** to a warm pinkish-brown color."
+      ]
+    }
+  ]
+}

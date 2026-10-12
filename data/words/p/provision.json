@@ -1,0 +1,22 @@
+{
+  "id": 364,
+  "term": "provision",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nu.",
+      "meaning": "为将来做的准备；提供；供给",
+      "examples": [
+        "You should make **provision** for things going wrong.",
+        "The government is responsible for the **provision** of health care."
+      ]
+    },
+    {
+      "pos": "n.[pl.]",
+      "meaning": "条款",
+      "examples": [
+        "Under the **provisions** of the lease, the tenant is responsible for repairs."
+      ]
+    }
+  ]
+}

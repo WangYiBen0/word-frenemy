@@ -1,0 +1,52 @@
+{
+  "id": 422,
+  "term": "sound",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "adj.",
+      "meaning": "合理的；全面的",
+      "examples": [
+        "He gave me some very **sound** advice.",
+        "He has a **sound** grasp of the issues."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "正确的；明智的",
+      "examples": [
+        "I am not sure that this is **sound** democratic practice.",
+        "They are trained nutritionists who can give **sound** advice on diets."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "完好的；未受损伤的；坚固的",
+      "examples": [
+        "The house needs attention but the roof is **sound**.",
+        "When we bought the house, it was structurally **sound**."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "酣睡的",
+      "examples": [
+        "After a long day at work, all she wanted was to have a **sound** night's sleep."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "不错的",
+      "examples": [
+        "He is a **sound** tennis player, known for his consistent performance."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "严重的",
+      "examples": [
+        "The coach threatened to give the lazy player a **sound** beating."
+      ]
+    }
+  ]
+}

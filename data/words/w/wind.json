@@ -1,0 +1,43 @@
+{
+  "id": 492,
+  "term": "wind",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vi.",
+      "meaning": "蜿蜒",
+      "examples": [
+        "The path **wound** down to the beach.",
+        "The procession **wound** its way downhill."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "蜿蜒的",
+      "examples": [
+        "The newcomers to the Village were attracted by its **winding** streets and Old World charm."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "上发条",
+      "examples": [
+        "I still hadn't **wound** my watch so I didn't know the time."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "缠绕",
+      "examples": [
+        "The horse jumped forwards and round her, **winding** the rope round her waist."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使喘不过气（通常被动）",
+      "examples": [
+        "He was momentarily **winded** by the blow to his stomach."
+      ]
+    }
+  ]
+}

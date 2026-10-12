@@ -1,0 +1,21 @@
+{
+  "id": 463,
+  "term": "tip",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vi.",
+      "meaning": "倾斜；倾倒",
+      "examples": [
+        "The seat **tips** forward to allow passengers into the back."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "使倾斜",
+      "examples": [
+        "The north pole is slightly **tipped** towards the sun."
+      ]
+    }
+  ]
+}

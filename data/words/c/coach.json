@@ -1,0 +1,21 @@
+{
+  "id": 86,
+  "term": "coach",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "长途汽车",
+      "examples": [
+        "We took a **coach** to London."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "四轮大马车",
+      "examples": [
+        "The royal family traveled in a horse-drawn **coach**."
+      ]
+    }
+  ]
+}

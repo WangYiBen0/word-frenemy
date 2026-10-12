@@ -1,0 +1,22 @@
+{
+  "id": 194,
+  "term": "fish",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vi.",
+      "meaning": "摸；找；翻找",
+      "examples": [
+        "She **fished** around in her bag for her keys.",
+        "She **fished** in her tool box for the right screwdriver."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "捕捞",
+      "examples": [
+        "They **fished** for salmon in the river every autumn."
+      ]
+    }
+  ]
+}

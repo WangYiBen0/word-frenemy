@@ -1,0 +1,29 @@
+{
+  "id": 145,
+  "term": "drive",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "迫使；驱使",
+      "examples": [
+        "Desperation **drove** her to take risks.",
+        "The bad weather **made** us change our travel plans."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "引擎；驱动装置",
+      "examples": [
+        "The car has a powerful electric **drive**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "（慈善等）活动",
+      "examples": [
+        "The charity **drive** raised over $10,000."
+      ]
+    }
+  ]
+}

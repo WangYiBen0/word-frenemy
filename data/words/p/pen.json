@@ -1,0 +1,37 @@
+{
+  "id": 332,
+  "term": "pen",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "写",
+      "examples": [
+        "He **penned** a letter to the local paper."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "圈起来；关起来；圈养",
+      "examples": [
+        "The whole family were **penned up** in one room for a month.",
+        "At clipping time sheep need to be **penned**.",
+        "They **penned** the cattle in the barn for the night."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "围栏",
+      "examples": [
+        "The farmer built a **pen** for the sheep."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "母天鹅",
+      "examples": [
+        "We saw a beautiful **pen** swimming on the lake."
+      ]
+    }
+  ]
+}

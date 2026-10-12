@@ -1,0 +1,21 @@
+{
+  "id": 76,
+  "term": "chicken",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "adj.",
+      "meaning": "胆怯的；懦弱的",
+      "examples": [
+        "He was too **chicken** to jump off the diving board."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "胆小鬼",
+      "examples": [
+        "Don't be such a **chicken**!"
+      ]
+    }
+  ]
+}

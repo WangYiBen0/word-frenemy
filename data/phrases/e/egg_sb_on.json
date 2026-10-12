@@ -1,0 +1,23 @@
+{
+  "id": 514,
+  "term": "egg sb on",
+  "type": "phrases",
+  "senses": [
+    {
+      "pos": "phr.v.",
+      "meaning": "怂恿；煽动",
+      "examples": [
+        "He hit the other boy again and again as his friends **egged him on**.",
+        "His friends **egged him on** to jump off the bridge.",
+        "find it in oneself to do"
+      ]
+    },
+    {
+      "pos": "phr.v.",
+      "meaning": "勉强自己（去做）；忍心",
+      "examples": [
+        "She could not find it in herself to forgive his lies."
+      ]
+    }
+  ]
+}

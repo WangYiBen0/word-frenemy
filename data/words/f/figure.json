@@ -1,0 +1,35 @@
+{
+  "id": 189,
+  "term": "figure",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "认为；认定",
+      "examples": [
+        "I **figured** (that) if I took the night train, I could be in Scotland by morning."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "数字",
+      "examples": [
+        "He removed the **figure** from the board."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "人物",
+      "examples": [
+        "Gandhi was an inspirational **figure**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "图表",
+      "examples": [
+        "The results are illustrated in **figure** 3 opposite."
+      ]
+    }
+  ]
+}

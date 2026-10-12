@@ -1,0 +1,22 @@
+{
+  "id": 428,
+  "term": "sport",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nu.",
+      "meaning": "乐趣；消遣",
+      "examples": [
+        "The comments were only made in **sport**."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "得意地穿戴；引人注目地穿戴；炫耀",
+      "examples": [
+        "She was **sporting** a T-shirt with the company's logo on it.",
+        "He **sported** a collarless jacket with pleated black panels."
+      ]
+    }
+  ]
+}

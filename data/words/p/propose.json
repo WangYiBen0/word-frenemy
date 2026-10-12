@@ -1,0 +1,22 @@
+{
+  "id": 363,
+  "term": "propose",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "v.",
+      "meaning": "求婚",
+      "examples": [
+        "After a three-weekend courtship, Pam accepted Randy's **proposal** of marriage.",
+        "He was afraid that if he **proposed** she might refuse."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "计划；打算",
+      "examples": [
+        "What do you **propose** to do now?"
+      ]
+    }
+  ]
+}

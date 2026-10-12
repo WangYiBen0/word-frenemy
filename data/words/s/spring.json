@@ -1,0 +1,44 @@
+{
+  "id": 430,
+  "term": "spring",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "弹簧；发条",
+      "examples": [
+        "The broken **spring** in the toy made it impossible to wind it up.",
+        "The **springs** soften and so do not support your spine."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "泉水",
+      "examples": [
+        "To the north are the hot **springs**."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "跳",
+      "examples": [
+        "He **sprang** to his feet, grabbing his keys off the coffee table."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "突如其来地做；冷不防地说",
+      "examples": [
+        "She **sprang** a surprise by winning the tournament.",
+        "McLaren **sprang** a new idea on him."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "起源",
+      "examples": [
+        "Ethiopia's art **springs** from its early Christian as well as its Muslim heritage."
+      ]
+    }
+  ]
+}

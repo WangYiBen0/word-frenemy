@@ -1,0 +1,21 @@
+{
+  "id": 61,
+  "term": "cap",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "最高限额",
+      "examples": [
+        "The government has placed a **cap** on local council spending."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "限定（预算）",
+      "examples": [
+        "Nearly half of all local councils face being **capped**."
+      ]
+    }
+  ]
+}

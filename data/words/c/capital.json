@@ -1,0 +1,29 @@
+{
+  "id": 62,
+  "term": "capital",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nu.",
+      "meaning": "资金；资本",
+      "examples": [
+        "Companies are having difficulty in raising **capital**.",
+        "We need more **capital** to expand."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "死刑的；处以极刑的",
+      "examples": [
+        "Murder is a **capital** offense in some countries."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "极好的",
+      "examples": [
+        "That's a **capital** idea!"
+      ]
+    }
+  ]
+}

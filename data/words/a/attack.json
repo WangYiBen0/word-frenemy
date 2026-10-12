@@ -1,0 +1,21 @@
+{
+  "id": 17,
+  "term": "attack",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "投入；着手解决",
+      "examples": [
+        "The team **attacked** the problem with new strategies."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "（疾病）突然发作",
+      "examples": [
+        "He was **attacked** by a heart condition last night."
+      ]
+    }
+  ]
+}

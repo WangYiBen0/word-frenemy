@@ -1,0 +1,21 @@
+{
+  "id": 414,
+  "term": "ship",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "派遣；运输",
+      "examples": [
+        "The company **ships** its goods all over the world."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "上市",
+      "examples": [
+        "The software is due to **ship** next month."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 161,
+  "term": "even",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "adj.",
+      "meaning": "平坦的",
+      "examples": [
+        "You need an **even** surface to work on.",
+        "The road is **even** and easy to drive on."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "均匀的；平稳的",
+      "examples": [
+        "Children do not learn at an **even** pace.",
+        "The cake has an **even** layer of frosting."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "公平的",
+      "examples": [
+        "It's not **even** to blame only one person."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "偶数的",
+      "examples": [
+        "Numbers like 2, 4, and 6 are considered **even**."
+      ]
+    }
+  ]
+}

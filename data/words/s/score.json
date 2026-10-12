@@ -1,0 +1,21 @@
+{
+  "id": 402,
+  "term": "score",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "二十",
+      "examples": [
+        "Several cabs and a **score** of cars were parked outside."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "乐谱",
+      "examples": [
+        "He recognizes enough notation to be able to follow a **score**."
+      ]
+    }
+  ]
+}

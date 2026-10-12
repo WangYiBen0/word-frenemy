@@ -1,0 +1,15 @@
+{
+  "id": 512,
+  "term": "cover for sb",
+  "type": "phrases",
+  "senses": [
+    {
+      "pos": "phr.v.",
+      "meaning": "顶替；为……打掩护",
+      "examples": [
+        "I'm **covering for** Jane while she's on leave.",
+        "Will you **cover for** me if anyone asks where I am?"
+      ]
+    }
+  ]
+}

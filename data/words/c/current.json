@@ -1,0 +1,28 @@
+{
+  "id": 123,
+  "term": "current",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "水流",
+      "examples": [
+        "The **current** is too strong to swim against."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "电流",
+      "examples": [
+        "The machine runs on a 220-volt **current**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "思潮",
+      "examples": [
+        "There's a **current** of optimism in the company."
+      ]
+    }
+  ]
+}

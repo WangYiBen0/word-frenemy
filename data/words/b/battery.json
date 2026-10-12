@@ -1,0 +1,22 @@
+{
+  "id": 31,
+  "term": "battery",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "炮台；排炮",
+      "examples": [
+        "The old fort has several **battery** positions.",
+        "The enemy fired a **battery** of artillery at the town."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "殴击罪",
+      "examples": [
+        "He was charged with **battery** after hitting the man."
+      ]
+    }
+  ]
+}

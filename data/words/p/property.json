@@ -1,0 +1,28 @@
+{
+  "id": 362,
+  "term": "property",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nu.",
+      "meaning": "所有权",
+      "examples": [
+        "He never had title to the **property**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "房地产",
+      "examples": [
+        "Cecil inherited a family **property** near Stamford."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "特质；属性",
+      "examples": [
+        "A radio signal has both electrical and magnetic **properties**."
+      ]
+    }
+  ]
+}

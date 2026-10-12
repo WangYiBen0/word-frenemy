@@ -1,0 +1,15 @@
+{
+  "id": 350,
+  "term": "policy",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "保险单；保险契约",
+      "examples": [
+        "You are advised to read the small print of household and motor insurance **policies**.",
+        "She bought a life insurance **policy** to protect her family's future."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 45,
+  "term": "book",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "登记；记录（违章）",
+      "examples": [
+        "The police **booked** him for speeding."
+      ]
+    }
+  ]
+}

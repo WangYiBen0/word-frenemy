@@ -1,0 +1,21 @@
+{
+  "id": 53,
+  "term": "bridge",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "驾驶台",
+      "examples": [
+        "The captain stood on the **bridge** of the ship."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "弥合；消除（差距）",
+      "examples": [
+        "We need to **bridge** the gap between theory and practice."
+      ]
+    }
+  ]
+}

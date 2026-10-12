@@ -1,0 +1,36 @@
+{
+  "id": 11,
+  "term": "air",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "感觉；神态",
+      "examples": [
+        "The room had an **air** of luxury.",
+        "She had an **air** of confidence about her."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "播出；播送",
+      "examples": [
+        "The interview will be **aired** on Channel 5 tonight."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "公开发表（观点、不满）",
+      "examples": [
+        "He **aired** his grievances at the meeting."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "通风",
+      "examples": [
+        "Open the windows to **air** the room."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 169,
+  "term": "express",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "快速列车；快车",
+      "examples": [
+        "Punctually at 7:45, the **express** to Kuala Lumpur left Singapore station.",
+        "We took the **express** to Edinburgh."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "特定的；明确的",
+      "examples": [
+        "The **express** purpose of the flights was to get Americans out of the danger zone."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "快递",
+      "examples": [
+        "A special **express** service is available by fax.",
+        "The package was sent by **express**."
+      ]
+    }
+  ]
+}

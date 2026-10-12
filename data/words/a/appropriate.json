@@ -1,0 +1,21 @@
+{
+  "id": 13,
+  "term": "appropriate",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "挪用；盗用",
+      "examples": [
+        "He was accused of **appropriating** club funds."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "拨款",
+      "examples": [
+        "Five million dollars has been **appropriated** for research into the disease."
+      ]
+    }
+  ]
+}

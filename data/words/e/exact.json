@@ -1,0 +1,16 @@
+{
+  "id": 165,
+  "term": "exact",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "要求；强求；迫使",
+      "examples": [
+        "She was determined to **exact** a promise from him.",
+        "Stress can **exact** a high price from workers.",
+        "She **exacted** a promise from him to help."
+      ]
+    }
+  ]
+}

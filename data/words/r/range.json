@@ -1,0 +1,28 @@
+{
+  "id": 370,
+  "term": "range",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "射程；范围（常单数）",
+      "examples": [
+        "These missiles have a **range** of 300 miles."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "山脉",
+      "examples": [
+        "The lake is situated at the eastern extremity of the mountain **range**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "牧场（the range）",
+      "examples": [
+        "He grazed his cattle on the open **range**."
+      ]
+    }
+  ]
+}

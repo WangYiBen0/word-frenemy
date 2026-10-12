@@ -1,0 +1,15 @@
+{
+  "id": 200,
+  "term": "floor",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "使困惑；使震惊",
+      "examples": [
+        "The question he raised **floored** the entire team.",
+        "She was completely **floored** when she heard she had won the prize."
+      ]
+    }
+  ]
+}

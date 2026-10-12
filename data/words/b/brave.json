@@ -1,0 +1,15 @@
+{
+  "id": 50,
+  "term": "brave",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "勇敢面对；冒着（困难、危险）",
+      "examples": [
+        "He did not feel up to **braving** the journalists at the airport.",
+        "She **braved** the storm to get home."
+      ]
+    }
+  ]
+}

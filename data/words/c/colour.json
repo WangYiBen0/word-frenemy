@@ -1,0 +1,22 @@
+{
+  "id": 91,
+  "term": "colour",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vi.",
+      "meaning": "脸红",
+      "examples": [
+        "She **coloured** at his remarks.",
+        "The fresh air brought colour to their cheeks."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "影响（观点）",
+      "examples": [
+        "Her personal experiences **coloured** her view of the world."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 306,
+  "term": "net",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "adj.",
+      "meaning": "净重的",
+      "examples": [
+        "The package has a **net** weight of 2 kilograms."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "净余的；纯粹的；净值",
+      "examples": [
+        "The **net** profit of the company increased by 10% this year."
+      ]
+    }
+  ]
+}

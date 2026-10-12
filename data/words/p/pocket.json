@@ -1,0 +1,35 @@
+{
+  "id": 348,
+  "term": "pocket",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "adj.",
+      "meaning": "小型的；袖珍的",
+      "examples": [
+        "She carried a **pocket** dictionary for quick reference."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "私藏；中饱私囊",
+      "examples": [
+        "He **pocketed** the extra cash without anyone noticing."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "赚钱",
+      "examples": [
+        "The company **pocketed** a large profit from the new product line."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "控制",
+      "examples": [
+        "The team managed to **pocket** the situation before it escalated."
+      ]
+    }
+  ]
+}

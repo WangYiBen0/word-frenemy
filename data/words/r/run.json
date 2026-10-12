@@ -1,0 +1,28 @@
+{
+  "id": 392,
+  "term": "run",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "管理；经营",
+      "examples": [
+        "He has no idea how to **run** a business."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "竞选",
+      "examples": [
+        "It was only last February that he announced he would **run** for president."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "延伸",
+      "examples": [
+        "He had a scar **running** down his left cheek."
+      ]
+    }
+  ]
+}

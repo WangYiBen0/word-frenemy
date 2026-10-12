@@ -1,0 +1,22 @@
+{
+  "id": 124,
+  "term": "custom",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "n.[pl.]",
+      "meaning": "海关",
+      "examples": [
+        "The **Customs** have seized large quantities of smuggled heroin.",
+        "We had to go through **customs** at the airport."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "习俗；惯例",
+      "examples": [
+        "It's a **custom** to give red envelopes at Chinese New Year."
+      ]
+    }
+  ]
+}

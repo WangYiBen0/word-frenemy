@@ -1,0 +1,15 @@
+{
+  "id": 255,
+  "term": "land",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "取得；（通过激烈方式）获得",
+      "examples": [
+        "He's just **landed** a starring role in Spielberg's next movie.",
+        "After months of interviews, she finally **landed** the job at the tech firm."
+      ]
+    }
+  ]
+}

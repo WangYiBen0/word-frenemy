@@ -1,0 +1,21 @@
+{
+  "id": 128,
+  "term": "dear",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "adj.",
+      "meaning": "昂贵的",
+      "examples": [
+        "Everything's so **dear** now, isn't it?"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "急迫的",
+      "examples": [
+        "We have a **dear** problem to solve."
+      ]
+    }
+  ]
+}

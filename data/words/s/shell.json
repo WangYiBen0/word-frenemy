@@ -1,0 +1,21 @@
+{
+  "id": 413,
+  "term": "shell",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "炮弹",
+      "examples": [
+        "Tanks fired **shells** at the house."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "炮击",
+      "examples": [
+        "The rebels **shelled** the densely-populated suburbs near the port."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 15,
+  "term": "arrest",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "吸引（注意力）",
+      "examples": [
+        "An unusual noise **arrested** his attention."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "阻止；遏制",
+      "examples": [
+        "They failed to **arrest** the company's decline."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "（身体机能）突然停止",
+      "examples": [
+        "The patient went into cardiac **arrest**."
+      ]
+    }
+  ]
+}

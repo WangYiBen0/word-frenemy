@@ -1,0 +1,21 @@
+{
+  "id": 272,
+  "term": "local",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "附近的酒吧",
+      "examples": [
+        "We met at a friendly **local** near the office."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "（轨道交通中）每站都停的；慢的",
+      "examples": [
+        "The **local** train stops at every station along the route."
+      ]
+    }
+  ]
+}

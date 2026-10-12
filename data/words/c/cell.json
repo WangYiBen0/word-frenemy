@@ -1,0 +1,28 @@
+{
+  "id": 68,
+  "term": "cell",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "小牢房",
+      "examples": [
+        "The prisoner was locked in a small **cell**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "细胞",
+      "examples": [
+        "Human bodies are made up of millions of **cells**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "手机",
+      "examples": [
+        "He called me on his **cell**."
+      ]
+    }
+  ]
+}

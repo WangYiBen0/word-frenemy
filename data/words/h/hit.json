@@ -1,0 +1,28 @@
+{
+  "id": 233,
+  "term": "hit",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "成功（受欢迎）的人或事",
+      "examples": [
+        "The new movie was a huge **hit** with audiences worldwide."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "（网络上）巨大的冲击",
+      "examples": [
+        "The social media post received a massive **hit** within hours."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "热门的",
+      "examples": [
+        "That song is one of the most **hit** tracks of the year."
+      ]
+    }
+  ]
+}

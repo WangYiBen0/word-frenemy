@@ -1,0 +1,14 @@
+{
+  "id": 500,
+  "term": "at issue",
+  "type": "phrases",
+  "senses": [
+    {
+      "pos": "phr.prep.",
+      "meaning": "在争议中；有分歧",
+      "examples": [
+        "The points **at issue** were not resolved during the negotiation."
+      ]
+    }
+  ]
+}

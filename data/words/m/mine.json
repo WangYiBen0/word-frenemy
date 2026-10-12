@@ -1,0 +1,23 @@
+{
+  "id": 291,
+  "term": "mine",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "采矿；采掘",
+      "examples": [
+        "The area has been **mined** for slate for centuries.",
+        "The company plans to **mine** for gold in the remote region."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "矿产；矿",
+      "examples": [
+        "The diamond **mine** produces some of the finest gems in the world.",
+        "Workers extract coal from the deep **mine**."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 283,
+  "term": "mean",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "adj.",
+      "meaning": "刻薄的；不善良的",
+      "examples": [
+        "Don't be so **mean** to your little brother!"
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "吝啬的",
+      "examples": [
+        "He's too **mean** to lend anyone money."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "平均数",
+      "examples": [
+        "The **mean** of these numbers is 15."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "一条线上的中间点",
+      "examples": [
+        "The Doctrine of the **Mean** is a core concept of Confucianism."
+      ]
+    }
+  ]
+}

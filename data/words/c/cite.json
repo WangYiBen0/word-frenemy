@@ -1,0 +1,21 @@
+{
+  "id": 79,
+  "term": "cite",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "表彰；嘉奖；表扬",
+      "examples": [
+        "He was **cited** for bravery."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "传唤",
+      "examples": [
+        "She was **cited** in the divorce proceedings."
+      ]
+    }
+  ]
+}

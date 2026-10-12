@@ -1,0 +1,36 @@
+{
+  "id": 175,
+  "term": "fair",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "集市",
+      "examples": [
+        "Every autumn I go to the county **fair**.",
+        "The annual **fair** in our town attracts thousands of visitors."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "展览会；义卖会",
+      "examples": [
+        "I got a book at the book **fair**."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "晴朗的",
+      "examples": [
+        "The weather is **fair** today."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "白皙的；浅色的",
+      "examples": [
+        "Blue suited her **fair** colouring."
+      ]
+    }
+  ]
+}

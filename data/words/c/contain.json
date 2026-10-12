@@ -1,0 +1,21 @@
+{
+  "id": 105,
+  "term": "contain",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "抑制；克制",
+      "examples": [
+        "She was unable to **contain** her excitement."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "遏制；控制",
+      "examples": [
+        "We need to **contain** the spread of the virus."
+      ]
+    }
+  ]
+}

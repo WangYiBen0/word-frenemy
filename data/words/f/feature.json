@@ -1,0 +1,22 @@
+{
+  "id": 183,
+  "term": "feature",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "n.",
+      "meaning": "五官；容貌",
+      "examples": [
+        "Her eyes are her most striking **feature**.",
+        "Her **features** were strongly defined."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "由……主演",
+      "examples": [
+        "The movie **featured** Robert Lindsay in a supporting role."
+      ]
+    }
+  ]
+}

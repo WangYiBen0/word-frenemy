@@ -1,0 +1,36 @@
+{
+  "id": 7,
+  "term": "address",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "处理；应付",
+      "examples": [
+        "Your essay does not **address** the real issues."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "设法解决",
+      "examples": [
+        "We must **address** ourselves to the problem of traffic pollution."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "发表演说；讲话",
+      "examples": [
+        "He is due to **address** a conference on human rights next week.",
+        "His lawyer turned to **address** the bench."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "演讲",
+      "examples": [
+        "He thought he saw someone lurking above the chamber during the **address**."
+      ]
+    }
+  ]
+}

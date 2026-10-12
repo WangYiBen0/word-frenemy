@@ -1,0 +1,14 @@
+{
+  "id": 10,
+  "term": "agent",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "动因；作用者",
+      "examples": [
+        "Perhaps today's intravenous drip thinking will be able to become your science exploration **agent** tomorrow."
+      ]
+    }
+  ]
+}

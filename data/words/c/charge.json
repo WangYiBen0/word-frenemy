@@ -1,0 +1,64 @@
+{
+  "id": 73,
+  "term": "charge",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "要价；收费",
+      "examples": [
+        "What did they **charge** for the repairs?"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "控告",
+      "examples": [
+        "Several people were arrested but nobody was **charged**."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "猛冲",
+      "examples": [
+        "We **charged** at the enemy.",
+        "The bull **charged** at the matador."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "充电",
+      "examples": [
+        "The shaver can be **charged** up and used when travelling."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "充满（情绪）",
+      "examples": [
+        "The room was **charged** with hatred."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "担责；交由……负责",
+      "examples": [
+        "The governing body is **charged** with managing the school within its budget."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "斟满",
+      "examples": [
+        "Please **charge** your glasses and drink a toast to the bride and groom!"
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "指责；指控",
+      "examples": [
+        "She rejected the **charge** that the story was untrue."
+      ]
+    }
+  ]
+}

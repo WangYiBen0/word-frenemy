@@ -1,0 +1,25 @@
+{
+  "id": 292,
+  "term": "minute",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "adj.",
+      "meaning": "极小的；微小的",
+      "examples": [
+        "The kitchen on the boat is **minute**.",
+        "Only a **minute** amount is needed.",
+        "She noticed a **minute** change in his expression.",
+        "There's a **minute** difference between the two samples."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "细致入微的；精确详细的",
+      "examples": [
+        "She remembered everything in **minute** detail.",
+        "The report contains **minute** details of the incident."
+      ]
+    }
+  ]
+}

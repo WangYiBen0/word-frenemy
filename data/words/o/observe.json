@@ -1,0 +1,30 @@
+{
+  "id": 313,
+  "term": "observe",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "遵守",
+      "examples": [
+        "Will the rebels **observe** the ceasefire?",
+        "Citizens must **observe** the country's laws and regulations."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "评论",
+      "examples": [
+        "She **observed** that it was getting late."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "庆祝（节日）",
+      "examples": [
+        "Do they **observe** Christmas?",
+        "They **observe** Christmas with family gatherings."
+      ]
+    }
+  ]
+}

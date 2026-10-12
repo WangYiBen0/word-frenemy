@@ -1,0 +1,22 @@
+{
+  "id": 457,
+  "term": "tell",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "区分；辨别；辨认",
+      "examples": [
+        "It was hard to **tell** the difference between the two versions.",
+        "I can't really **tell** the difference between their policies and ours."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "判断",
+      "examples": [
+        "It was already impossible to **tell** where the bullet had entered."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 485,
+  "term": "want",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "缺乏",
+      "examples": [
+        "He doesn't **want** courage."
+      ]
+    },
+    {
+      "pos": "nu.",
+      "meaning": "缺少；不足",
+      "examples": [
+        "The men were daily becoming weaker from **want** of rest."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "通缉",
+      "examples": [
+        "They were **wanted** by the police."
+      ]
+    }
+  ]
+}

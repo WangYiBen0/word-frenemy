@@ -1,0 +1,35 @@
+{
+  "id": 32,
+  "term": "bear",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "带有；显示",
+      "examples": [
+        "Her face **bears** a strong resemblance to her mother's."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "承受；承载",
+      "examples": [
+        "The bridge can **bear** heavy loads."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "结（果实）",
+      "examples": [
+        "The tree **bears** fruit every autumn."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "容忍",
+      "examples": [
+        "I can't **bear** the noise anymore."
+      ]
+    }
+  ]
+}

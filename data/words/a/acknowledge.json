@@ -1,0 +1,14 @@
+{
+  "id": 5,
+  "term": "acknowledge",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "致谢；感谢",
+      "examples": [
+        "I gratefully **acknowledge** financial support from several local businesses."
+      ]
+    }
+  ]
+}

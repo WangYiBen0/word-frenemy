@@ -1,0 +1,29 @@
+{
+  "id": 267,
+  "term": "lift",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "解除限制；取消",
+      "examples": [
+        "The government decided to **lift** the travel restrictions."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "（雾等）消散",
+      "examples": [
+        "The fog began to **lift**."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "剽窃；偷窃",
+      "examples": [
+        "She **lifted** most of the ideas from a book she had been reading.",
+        "He had been **lifting** electrical goods from the store where he worked."
+      ]
+    }
+  ]
+}

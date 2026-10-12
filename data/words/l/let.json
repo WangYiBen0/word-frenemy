@@ -1,0 +1,21 @@
+{
+  "id": 264,
+  "term": "let",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "房屋出租",
+      "examples": [
+        "The apartment is **let** at a reasonable monthly rent."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "阻止；妨碍",
+      "examples": [
+        "Nothing will **let** him from pursuing his dream."
+      ]
+    }
+  ]
+}

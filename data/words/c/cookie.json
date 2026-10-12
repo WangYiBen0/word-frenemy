@@ -1,0 +1,14 @@
+{
+  "id": 110,
+  "term": "cookie",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "网络或互联网使用者发给中央服务器信息的计算机文件",
+      "examples": [
+        "The website stores **cookies** on your computer."
+      ]
+    }
+  ]
+}

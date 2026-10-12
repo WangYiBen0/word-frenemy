@@ -1,0 +1,15 @@
+{
+  "id": 184,
+  "term": "feed",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "推送；主页推送",
+      "examples": [
+        "My social media **feed** is full of news.",
+        "My **feeds** are updated in real-time."
+      ]
+    }
+  ]
+}

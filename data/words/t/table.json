@@ -1,0 +1,22 @@
+{
+  "id": 451,
+  "term": "table",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "提出；正式提出；提交（议案）",
+      "examples": [
+        "They have **tabled** a motion for debate at the next Party Conference.",
+        "They've **tabled** a motion criticising the Government for doing nothing about the problem."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "搁置；延期",
+      "examples": [
+        "We will **table** that for later."
+      ]
+    }
+  ]
+}

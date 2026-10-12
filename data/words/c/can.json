@@ -1,0 +1,29 @@
+{
+  "id": 60,
+  "term": "can",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "罐头；罐子",
+      "examples": [
+        "She opened a **can** of beans for dinner.",
+        "He drank a **can** of soda."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "罐装",
+      "examples": [
+        "It was always roast lamb and **canned** peas for Sunday lunch."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "解雇",
+      "examples": [
+        "He was **canned** for being late too many times."
+      ]
+    }
+  ]
+}

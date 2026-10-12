@@ -1,0 +1,28 @@
+{
+  "id": 85,
+  "term": "club",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "梅花（纸牌）",
+      "examples": [
+        "He has the king of **clubs** in his hand."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "警棍",
+      "examples": [
+        "The police officer carried a **club**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "高尔夫球杆",
+      "examples": [
+        "He used a driver **club** to hit the ball."
+      ]
+    }
+  ]
+}

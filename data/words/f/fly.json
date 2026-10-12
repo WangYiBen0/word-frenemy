@@ -1,0 +1,35 @@
+{
+  "id": 201,
+  "term": "fly",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "裤子拉链",
+      "examples": [
+        "Your **fly** is undone."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "苍蝇",
+      "examples": [
+        "There are always annoying **flies** in the kitchen in summer."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "聪明的；机敏的",
+      "examples": [
+        "He's a **fly** kid who can always solve problems quickly."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "鬼祟的",
+      "examples": [
+        "That **fly** thief slipped into the store when no one was looking."
+      ]
+    }
+  ]
+}

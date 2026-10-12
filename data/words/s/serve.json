@@ -1,0 +1,35 @@
+{
+  "id": 409,
+  "term": "serve",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "上菜",
+      "examples": [
+        "**Serve** the cakes warm."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "服（刑）",
+      "examples": [
+        "The prisoner has **served** his sentence."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "发球",
+      "examples": [
+        "She **served** an ace."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "满足需要",
+      "examples": [
+        "Most of their economic policies **serve** the interests of big business."
+      ]
+    }
+  ]
+}

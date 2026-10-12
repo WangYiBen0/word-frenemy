@@ -1,0 +1,21 @@
+{
+  "id": 440,
+  "term": "storm",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vi.",
+      "meaning": "气冲冲地走",
+      "examples": [
+        "After a bit of an argument, he **stormed** out."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "怒吼",
+      "examples": [
+        "\"It's a fiasco,\" he **stormed**."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 137,
+  "term": "dig",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vi.",
+      "meaning": "刻苦钻研",
+      "examples": [
+        "He **dug** into the history of the region."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "（口）喜欢；欣赏",
+      "examples": [
+        "I really **dig** this new band."
+      ]
+    }
+  ]
+}

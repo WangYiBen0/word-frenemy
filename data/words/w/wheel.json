@@ -1,0 +1,21 @@
+{
+  "id": 490,
+  "term": "wheel",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "方向盘",
+      "examples": [
+        "My co-pilot suddenly grabbed the **wheel**."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "（因惊讶、震惊或生气）突然转身",
+      "examples": [
+        "He **wheeled** around to face her."
+      ]
+    }
+  ]
+}

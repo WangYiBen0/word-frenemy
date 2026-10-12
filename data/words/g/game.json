@@ -1,0 +1,36 @@
+{
+  "id": 212,
+  "term": "game",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nu.",
+      "meaning": "猎物；野味",
+      "examples": [
+        "In the early days of the frontier, men who shot **game** for food were essential to the survival of the settlers.",
+        "The hunter searched for **game** in the forest."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "诡计",
+      "examples": [
+        "So that's his **game**."
+      ]
+    },
+    {
+      "pos": "nu.",
+      "meaning": "博弈",
+      "examples": [
+        "**Game** theory is widely used in economics."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "敢于冒险的",
+      "examples": [
+        "He's a **game** entrepreneur who isn't afraid of failure."
+      ]
+    }
+  ]
+}

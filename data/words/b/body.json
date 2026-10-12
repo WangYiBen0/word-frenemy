@@ -1,0 +1,22 @@
+{
+  "id": 44,
+  "term": "body",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "机构；团体",
+      "examples": [
+        "An independent **body** has been set up to investigate the affair.",
+        "The governing **body** sets the school's policies."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "尸体",
+      "examples": [
+        "The **body** was found in the river this morning."
+      ]
+    }
+  ]
+}

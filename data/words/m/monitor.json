@@ -1,0 +1,14 @@
+{
+  "id": 296,
+  "term": "monitor",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "监视；监测",
+      "examples": [
+        "Sensors **monitor** the temperature in the laboratory."
+      ]
+    }
+  ]
+}

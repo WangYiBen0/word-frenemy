@@ -1,0 +1,28 @@
+{
+  "id": 127,
+  "term": "deal",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vi.",
+      "meaning": "处理（deal with）",
+      "examples": [
+        "She **dealt** with the problem efficiently."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "发牌",
+      "examples": [
+        "He **dealt** the cards to the players."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "交易",
+      "examples": [
+        "They made a **deal** to share the profits."
+      ]
+    }
+  ]
+}

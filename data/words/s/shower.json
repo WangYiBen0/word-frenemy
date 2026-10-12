@@ -1,0 +1,28 @@
+{
+  "id": 416,
+  "term": "shower",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "阵雨",
+      "examples": [
+        "We were caught in a heavy **shower**."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "喷洒",
+      "examples": [
+        "Volcanic ash **showered** down on the town after the eruption."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "大量给予",
+      "examples": [
+        "He **showered** her with gifts."
+      ]
+    }
+  ]
+}

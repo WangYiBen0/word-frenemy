@@ -1,0 +1,29 @@
+{
+  "id": 113,
+  "term": "counter",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "反驳；驳斥",
+      "examples": [
+        "Such arguments are not easily **countered**.",
+        "He **countered** her argument with facts."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "计算器",
+      "examples": [
+        "She used a **counter** to count the coins."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "柜台",
+      "examples": [
+        "She leaned on the shop **counter**."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 215,
+  "term": "gesture",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "行为；姿态",
+      "examples": [
+        "His **gesture** of offering help won everyone's respect."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "意味",
+      "examples": [
+        "What does this **gesture** mean?"
+      ]
+    }
+  ]
+}

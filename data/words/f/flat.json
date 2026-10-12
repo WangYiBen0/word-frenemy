@@ -1,0 +1,42 @@
+{
+  "id": 198,
+  "term": "flat",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "adj.",
+      "meaning": "枯燥的",
+      "examples": [
+        "He felt very **flat** after his friends had gone home."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "降音的",
+      "examples": [
+        "That note should be B **flat**, not B."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "断然的",
+      "examples": [
+        "Her request was met with a **flat** refusal."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "萧条的",
+      "examples": [
+        "The housing market has been **flat** for months."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "平的",
+      "examples": [
+        "This **flat** ground is perfect for setting up tents."
+      ]
+    }
+  ]
+}

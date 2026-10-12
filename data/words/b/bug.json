@@ -1,0 +1,22 @@
+{
+  "id": 54,
+  "term": "bug",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "痴迷；着迷的事物",
+      "examples": [
+        "He has a **bug** for vintage cars.",
+        "She's had a **bug** for photography since she was young."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "虫子",
+      "examples": [
+        "There's a **bug** crawling on the wall."
+      ]
+    }
+  ]
+}

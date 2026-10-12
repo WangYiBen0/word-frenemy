@@ -1,0 +1,25 @@
+{
+  "id": 354,
+  "term": "practice",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "诊所；律所",
+      "examples": [
+        "My solicitor is no longer in **practice**.",
+        "She works at a medical **practice** in the downtown area.",
+        "The law **practice** has a reputation for handling complex cases.",
+        "The new doctor's **practice** was miles away from where I lived."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "惯例；习惯；习俗",
+      "examples": [
+        "In many cultures, it is common **practice** to remove your shoes before entering a home.",
+        "Gordon Brown has demanded a public inquiry into bank **practices**."
+      ]
+    }
+  ]
+}

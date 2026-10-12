@@ -1,0 +1,14 @@
+{
+  "id": 235,
+  "term": "horse",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "酒精灯用的三脚架",
+      "examples": [
+        "The chemist placed the beaker on a **horse** above the Bunsen burner."
+      ]
+    }
+  ]
+}

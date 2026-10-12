@@ -1,0 +1,21 @@
+{
+  "id": 142,
+  "term": "draw",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "吸引",
+      "examples": [
+        "The movie is **drawing** large audiences."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "有吸引力的人或物",
+      "examples": [
+        "She is currently one of the biggest **draws** on the Irish music scene."
+      ]
+    }
+  ]
+}

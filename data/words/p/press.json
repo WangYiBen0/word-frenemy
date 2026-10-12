@@ -1,0 +1,22 @@
+{
+  "id": 355,
+  "term": "press",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "n.",
+      "meaning": "出版社；新闻界；新闻记者",
+      "examples": [
+        "The story was reported in the **press** and on television.",
+        "A meeting was promised, but the **Press** was not admitted."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "逼迫",
+      "examples": [
+        "If I submitted to their demands, they would not **press** the allegations."
+      ]
+    }
+  ]
+}

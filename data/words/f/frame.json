@@ -1,0 +1,56 @@
+{
+  "id": 206,
+  "term": "frame",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "作伪证陷害",
+      "examples": [
+        "The innocent man was **framed** and sent to prison."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "给……做框",
+      "examples": [
+        "She **framed** the family photo with a wooden **frame**."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "表达",
+      "examples": [
+        "He **framed** his opinion in simple words."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "体系；框架",
+      "examples": [
+        "We need to build a more sound **frame** of management."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "相框；镜框",
+      "examples": [
+        "She framed the family photo with a wooden **frame**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "体形",
+      "examples": [
+        "She has a graceful and well-proportioned **frame**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "帧",
+      "examples": [
+        "This shot is a key **frame** of the movie."
+      ]
+    }
+  ]
+}

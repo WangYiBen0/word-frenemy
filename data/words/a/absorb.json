@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "term": "absorb",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "缓冲；吸收（冲击）",
+      "examples": [
+        "Steel barriers can bend and **absorb** the shock."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 115,
+  "term": "course",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "航线；方向",
+      "examples": [
+        "The ship changed its **course** to avoid the storm.",
+        "The river flows in a northerly **course**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "一道菜",
+      "examples": [
+        "The main **course** was roast chicken."
+      ]
+    }
+  ]
+}

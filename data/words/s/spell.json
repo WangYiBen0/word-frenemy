@@ -1,0 +1,22 @@
+{
+  "id": 426,
+  "term": "spell",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "招致；意味着",
+      "examples": [
+        "The crop failure **spelt** disaster for many farmers.",
+        "If the irrigation plan goes ahead, it could **spell** disaster for the birds."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "吸引；迷住",
+      "examples": [
+        "For many years sundials have cast their **spell** over scientists and mathematicians."
+      ]
+    }
+  ]
+}

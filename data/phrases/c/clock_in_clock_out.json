@@ -1,0 +1,14 @@
+{
+  "id": 509,
+  "term": "clock in / clock out",
+  "type": "phrases",
+  "senses": [
+    {
+      "pos": "phr.vi.",
+      "meaning": "上班打卡；下班打卡",
+      "examples": [
+        "Employees must **clock in** at 9 a.m. and **clock out** at 5 p.m."
+      ]
+    }
+  ]
+}

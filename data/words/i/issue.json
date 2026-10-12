@@ -1,0 +1,22 @@
+{
+  "id": 246,
+  "term": "issue",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "投稿稿件；期号",
+      "examples": [
+        "All contributions for the May **issue** must be received by Friday."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "出版；发表",
+      "examples": [
+        "They **issued** a joint statement denying the charges.",
+        "The journal will **issue** a special edition on climate change."
+      ]
+    }
+  ]
+}

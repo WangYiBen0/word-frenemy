@@ -1,0 +1,15 @@
+{
+  "id": 435,
+  "term": "station",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "驻扎",
+      "examples": [
+        "Reports from the capital, Lome, say troops are **stationed** on the streets.",
+        "The government decided to bring back some of the troops **stationed** abroad."
+      ]
+    }
+  ]
+}

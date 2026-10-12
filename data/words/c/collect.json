@@ -1,0 +1,28 @@
+{
+  "id": 89,
+  "term": "collect",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "领取；取走",
+      "examples": [
+        "What day do they **collect** the rubbish?"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "收到；赢得；获得",
+      "examples": [
+        "She **collected** £25 000 in compensation."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "镇静的；冷静的（collected）",
+      "examples": [
+        "She remained **collected** despite the emergency."
+      ]
+    }
+  ]
+}

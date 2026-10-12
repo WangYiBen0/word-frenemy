@@ -1,0 +1,21 @@
+{
+  "id": 372,
+  "term": "rate",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "评价",
+      "examples": [
+        "The university is highly **rated** for its research."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "价格",
+      "examples": [
+        "We offer special reduced **rates** for students."
+      ]
+    }
+  ]
+}

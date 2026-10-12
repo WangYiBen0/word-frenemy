@@ -1,0 +1,21 @@
+{
+  "id": 373,
+  "term": "read",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "写着",
+      "examples": [
+        "The sign **read** 'No admittance'."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "博学的；有学问的",
+      "examples": [
+        "She's very widely **read** in law."
+      ]
+    }
+  ]
+}

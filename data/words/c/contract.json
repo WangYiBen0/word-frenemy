@@ -1,0 +1,37 @@
+{
+  "id": 107,
+  "term": "contract",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "合同",
+      "examples": [
+        "I was on a three-year **contract** that expired last week."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "签约",
+      "examples": [
+        "The player is **contracted** to play until August.",
+        "She **contracted** to work for the company for two years."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "收缩",
+      "examples": [
+        "Metal **contracts** when it cools down.",
+        "The heart muscles **contract** to expel the blood."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "感染（疾病）",
+      "examples": [
+        "It is crucial to avoid **contracting** AIDS or any other serious diseases."
+      ]
+    }
+  ]
+}

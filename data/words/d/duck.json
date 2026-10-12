@@ -1,0 +1,22 @@
+{
+  "id": 146,
+  "term": "duck",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vi.",
+      "meaning": "躲闪；低头躲避",
+      "examples": [
+        "We **ducked** down behind the wall so they wouldn't see us.",
+        "He **ducked** to avoid being hit by the ball."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "回避（问题）",
+      "examples": [
+        "He **ducked** the question by changing the subject."
+      ]
+    }
+  ]
+}

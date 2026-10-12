@@ -1,0 +1,15 @@
+{
+  "id": 23,
+  "term": "back",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "支持；帮助；援助",
+      "examples": [
+        "Her parents **backed** her in her choice of career.",
+        "The government **backed** this vision with financial support."
+      ]
+    }
+  ]
+}

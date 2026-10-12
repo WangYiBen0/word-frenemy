@@ -1,0 +1,23 @@
+{
+  "id": 197,
+  "term": "flag",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vi.",
+      "meaning": "热情衰退；疲乏；衰减",
+      "examples": [
+        "It had been a long day and the children were beginning to **flag**.",
+        "The audience's enthusiasm began to **flag** as night fell.",
+        "His energy started to **flag** after the long hike."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "标记；标注",
+      "examples": [
+        "The editor **flagged** the paragraphs that needed revision in red."
+      ]
+    }
+  ]
+}

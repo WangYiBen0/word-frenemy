@@ -1,0 +1,21 @@
+{
+  "id": 129,
+  "term": "default",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "n.",
+      "meaning": "违约（尤指未偿付债务）",
+      "examples": [
+        "The company is in **default** on the loan."
+      ]
+    },
+    {
+      "pos": "n.",
+      "meaning": "默认；系统设定值",
+      "examples": [
+        "The **default** option is to save your work every five minutes."
+      ]
+    }
+  ]
+}

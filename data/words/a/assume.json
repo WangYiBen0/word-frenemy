@@ -1,0 +1,21 @@
+{
+  "id": 20,
+  "term": "assume",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "承担（职务）",
+      "examples": [
+        "Mr Cross will **assume** the role of chief executive with a team of four directors."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "装出；摆出（神态）",
+      "examples": [
+        "He contented himself by **assuming** an air of superiority."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+[project]
+name = "word-frenemy"
+version = "0.1.0"
+description = "熟词生义收集与练习"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["reportlab>=4.0.0"]
+
+[project.scripts]
+word-frenemy = "build:main"
+
+[tool.uv]
+package = false

@@ -1,0 +1,28 @@
+{
+  "id": 116,
+  "term": "court",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "法庭",
+      "examples": [
+        "The case will be heard in **court** next week."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "裁定",
+      "examples": [
+        "The **court** called the evidence inadmissible."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "求偶；求爱",
+      "examples": [
+        "He **courted** her for six months before proposing."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 536,
+  "term": "PE investments",
+  "type": "phrases",
+  "senses": [
+    {
+      "pos": "phr.n.",
+      "meaning": "私募股权投资",
+      "examples": [
+        "The firm specializes in **PE** investments in technology startups."
+      ]
+    }
+  ]
+}

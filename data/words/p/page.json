@@ -1,0 +1,21 @@
+{
+  "id": 324,
+  "term": "page",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "男侍从",
+      "examples": [
+        "The prince was attended by a young **page**."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "呼叫",
+      "examples": [
+        "The receptionist **paged** the doctor to the emergency room."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 275,
+  "term": "lot",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "土地；拍卖品",
+      "examples": [
+        "The farmer sold a small **lot** of land to build a house."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "特定的一类（人）",
+      "examples": [
+        "He's a generous **lot** who always helps others."
+      ]
+    }
+  ]
+}

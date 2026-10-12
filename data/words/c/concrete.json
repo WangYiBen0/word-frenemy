@@ -1,0 +1,21 @@
+{
+  "id": 98,
+  "term": "concrete",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "adj.",
+      "meaning": "具体的",
+      "examples": [
+        "Can you give me a **concrete** example?"
+      ]
+    },
+    {
+      "pos": "nu.",
+      "meaning": "混凝土",
+      "examples": [
+        "The building is made of **concrete**."
+      ]
+    }
+  ]
+}

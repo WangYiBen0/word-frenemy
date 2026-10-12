@@ -1,0 +1,22 @@
+{
+  "id": 464,
+  "term": "tissue",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "动植物的组织；细胞组织",
+      "examples": [
+        "As we age we lose muscle **tissue**.",
+        "The doctor examined the **tissue** sample under the microscope."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "纸巾",
+      "examples": [
+        "She reached for a **tissue** to wipe away the tears from her eyes."
+      ]
+    }
+  ]
+}

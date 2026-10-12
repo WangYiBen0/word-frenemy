@@ -1,0 +1,21 @@
+{
+  "id": 122,
+  "term": "culture",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nu.",
+      "meaning": "栽培；培育",
+      "examples": [
+        "The beekeeper is dedicated to the bee **culture**."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "培养；种植；养殖",
+      "examples": [
+        "They **culture** bacteria in a lab."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 308,
+  "term": "note",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "音符",
+      "examples": [
+        "He played the first few **notes** of the tune.",
+        "She played the high **note** with perfect pitch."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "便条",
+      "examples": [
+        "She left a **note** for Ben on the kitchen table."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "纸币",
+      "examples": [
+        "Can you change a £20 **note**?"
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "指出",
+      "examples": [
+        "It is worth **noting** that the most successful companies had the lowest prices."
+      ]
+    }
+  ]
+}

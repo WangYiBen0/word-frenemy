@@ -1,0 +1,15 @@
+{
+  "id": 64,
+  "term": "carrot",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "回报；好处（诱饵）",
+      "examples": [
+        "The promise of promotion was a **carrot** to keep him in the job.",
+        "The company offered a **carrot** of a bonus to encourage hard work."
+      ]
+    }
+  ]
+}

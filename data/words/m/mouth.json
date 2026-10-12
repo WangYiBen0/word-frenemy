@@ -1,0 +1,14 @@
+{
+  "id": 300,
+  "term": "mouth",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "不出声地说话",
+      "examples": [
+        "She **mouthed** the words \"I love you\" from across the room."
+      ]
+    }
+  ]
+}

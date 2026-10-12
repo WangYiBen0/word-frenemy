@@ -1,0 +1,22 @@
+{
+  "id": 533,
+  "term": "make out",
+  "type": "phrases",
+  "senses": [
+    {
+      "pos": "phr.v.",
+      "meaning": "辨别；理解；起草；结论",
+      "examples": [
+        "I can barely **make out** the words in the dark.",
+        "The lawyer helped **make out** a will for the client."
+      ]
+    },
+    {
+      "pos": "phr.v.",
+      "meaning": "亲热",
+      "examples": [
+        "They were caught **making out** in the park."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 39,
+  "term": "bite",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vi.",
+      "meaning": "产生严重影响",
+      "examples": [
+        "The recession is starting to **bite**."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "上钩",
+      "examples": [
+        "The fish didn't **bite** on the bait."
+      ]
+    }
+  ]
+}

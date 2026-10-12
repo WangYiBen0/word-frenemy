@@ -1,0 +1,44 @@
+{
+  "id": 338,
+  "term": "pilot",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "试行；试点",
+      "examples": [
+        "Teachers are **piloting** a literature-based reading programme.",
+        "The trust is looking for 50 schools to **pilot** a programme.",
+        "The company will **pilot** the new software in three departments first."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "驾驶",
+      "examples": [
+        "He **piloted** the plane through the storm safely."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "引导",
+      "examples": [
+        "She **piloted** the team through the difficult project phase."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "试运行项目",
+      "examples": [
+        "The city launched a **pilot** program to test the new public transport system."
+      ]
+    },
+    {
+      "pos": "adj.",
+      "meaning": "试点的；实验性的",
+      "examples": [
+        "They conducted a **pilot** study to assess the drug's effectiveness."
+      ]
+    }
+  ]
+}

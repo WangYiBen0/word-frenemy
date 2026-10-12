@@ -1,0 +1,23 @@
+{
+  "id": 501,
+  "term": "at large",
+  "type": "phrases",
+  "senses": [
+    {
+      "pos": "phr.prep.",
+      "meaning": "逍遥法外；不受约束的",
+      "examples": [
+        "Carrillo's murderer remained **at large** yesterday as investigators continued their search.",
+        "The animals are allowed to roam **at large** in the park.",
+        "be dying to do / be dying for"
+      ]
+    },
+    {
+      "pos": "phr.v.",
+      "meaning": "渴望（做）",
+      "examples": [
+        "I'm **dying to** know what happened."
+      ]
+    }
+  ]
+}

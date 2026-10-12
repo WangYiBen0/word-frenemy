@@ -1,0 +1,22 @@
+{
+  "id": 405,
+  "term": "second",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "支持；赞成；附议",
+      "examples": [
+        "Any proposal must be **seconded** by two other members of the committee.",
+        "The Prime Minister **seconded** the call for discipline in a speech last week."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "短期调任",
+      "examples": [
+        "Each year two teachers are **seconded** to industry for six months."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 344,
+  "term": "plant",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "加工厂；工厂；发电厂",
+      "examples": [
+        "The steel **plant** has been modernized to increase its efficiency.",
+        "The **plant** provides forty per cent of the country's electricity.",
+        "The factory is a large manufacturing **plant** producing electronic components."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "卧底",
+      "examples": [
+        "The spy worked as a **plant** in the enemy's organization for years."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "灌输",
+      "examples": [
+        "He **planted** the first seeds of doubt in my mind."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "执行机构",
+      "examples": [
+        "The government established a new regulatory **plant** to oversee environmental issues."
+      ]
+    }
+  ]
+}

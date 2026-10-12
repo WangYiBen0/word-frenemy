@@ -1,0 +1,23 @@
+{
+  "id": 406,
+  "term": "secure",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "获得；取得；争取到",
+      "examples": [
+        "She **secured** 2 000 votes.",
+        "He **secured** a place for himself at law school.",
+        "Federal leaders continued their efforts to **secure** a ceasefire."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "拴牢",
+      "examples": [
+        "She **secured** the rope firmly to the back of the car."
+      ]
+    }
+  ]
+}

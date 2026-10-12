@@ -1,0 +1,15 @@
+{
+  "id": 141,
+  "term": "dog",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "困扰；追踪",
+      "examples": [
+        "Financial problems have **dogged** him for years.",
+        "The police **dogged** the suspect through the streets."
+      ]
+    }
+  ]
+}

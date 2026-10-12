@@ -1,0 +1,28 @@
+{
+  "id": 72,
+  "term": "channel",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "引导",
+      "examples": [
+        "She **channeled** her energy into her work."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "输送（资金）",
+      "examples": [
+        "The charity **channels** money to poor communities."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "海峡",
+      "examples": [
+        "The English **Channel** separates Britain from France."
+      ]
+    }
+  ]
+}

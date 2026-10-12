@@ -1,0 +1,21 @@
+{
+  "id": 458,
+  "term": "term",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "术语",
+      "examples": [
+        "'Register' is the **term** commonly used to describe different levels of formality in language."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "医学名词",
+      "examples": [
+        "Myocardial infarction is the medical **term** for a heart attack."
+      ]
+    }
+  ]
+}

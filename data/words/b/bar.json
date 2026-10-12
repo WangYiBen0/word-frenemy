@@ -1,0 +1,36 @@
+{
+  "id": 28,
+  "term": "bar",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "律师职业",
+      "examples": [
+        "She finally passed the **bar** exam and became a licensed attorney.",
+        "He was called to the **bar** last year."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "阻碍",
+      "examples": [
+        "Prejudice is a **bar** to social progress."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "暗礁",
+      "examples": [
+        "The ship hit a **bar** and sank."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "（乐曲）小节",
+      "examples": [
+        "The melody is made up of simple **bars**."
+      ]
+    }
+  ]
+}

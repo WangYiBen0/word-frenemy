@@ -1,0 +1,14 @@
+{
+  "id": 456,
+  "term": "telescope",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vt.",
+      "meaning": "缩短；精简",
+      "examples": [
+        "The episodes have been **telescoped** into a single program."
+      ]
+    }
+  ]
+}

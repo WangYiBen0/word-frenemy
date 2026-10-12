@@ -1,0 +1,21 @@
+{
+  "id": 419,
+  "term": "slip",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "差错",
+      "examples": [
+        "He recited the whole poem without making a single **slip**."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "便条",
+      "examples": [
+        "I wrote it down on a **slip** of paper."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 51,
+  "term": "break",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nc.",
+      "meaning": "机会；转机",
+      "examples": [
+        "He finally got his big **break** in the movie industry."
+      ]
+    },
+    {
+      "pos": "nc.",
+      "meaning": "短暂假期",
+      "examples": [
+        "Let's take a **break** from work."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 347,
+  "term": "plot",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "vi.",
+      "meaning": "密谋",
+      "examples": [
+        "The rebels **plotted** to overthrow the government."
+      ]
+    },
+    {
+      "pos": "vt.",
+      "meaning": "绘制",
+      "examples": [
+        "The engineer **plotted** the data on a graph to analyze trends."
+      ]
+    }
+  ]
+}

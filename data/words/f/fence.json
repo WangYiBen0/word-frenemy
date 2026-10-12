@@ -1,0 +1,21 @@
+{
+  "id": 186,
+  "term": "fence",
+  "type": "words",
+  "senses": [
+    {
+      "pos": "nu.",
+      "meaning": "击剑（运动）",
+      "examples": [
+        "**Fencing** requires speed and skill."
+      ]
+    },
+    {
+      "pos": "vi.",
+      "meaning": "击剑",
+      "examples": [
+        "She learned to **fence** in college."
+      ]
+    }
+  ]
+}
